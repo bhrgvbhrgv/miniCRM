@@ -1,0 +1,24 @@
+{
+  "name": "mini-crm-system-(customer-management-dashboard)-nextjsassignment",
+  "version": "1.0.0",
+  "description": "Mini CRM system using Next.js and React (JavaScript only)",
+  "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy:check": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.2.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
